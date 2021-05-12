@@ -1,0 +1,38 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+body{
+	background-color: #212529;
+}
+h2{
+	color: #fff;
+    text-align: center;
+}
+.btn{
+	    border: #98cafb 1px solid;
+	    color: #98cafb;
+	    margin:3px;
+}
+
+.division{
+	display: inline-block;
+}
+.sort_button{
+	padding-left:45%;
+}
+.array{
+	color:#b2ffb2;
+	border:#b2ffb2 1px solid;
+}
+.bar{
+	background-color: yellow;
+	display: inline-block;
+	border: #212529 1px solid;
+}
+.bars{
+	color:white;
+	margin-left:30%;
+	margin-top: 10px;
+}
